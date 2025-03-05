@@ -284,126 +284,126 @@ console.log(gameName.toUpperCase)
 // Object
 // [[Scopes]]
 // : 
-Scopes[0]
-[[Scopes]]
-: 
-Scopes[0]
-No properties
-replaceAll
-: 
-ƒ replaceAll()
-search
-: 
-ƒ search()
-slice
-: 
-ƒ slice()
-small
-: 
-ƒ small()
-split
-: 
-ƒ split()
-startsWith
-: 
-ƒ startsWith()
-length
-: 
-1
-name
-: 
-"startsWith"
-arguments
-: 
-(...)
-caller
-: 
-(...)
-[[Prototype]]
-: 
-ƒ ()
-[[Scopes]]
-: 
-Scopes[0]
-strike
-: 
-ƒ strike()
-length
-: 
-0
-name
-: 
-"strike"
-arguments
-: 
-(...)
-caller
-: 
-(...)
-[[Prototype]]
-: 
-ƒ ()
-[[Scopes]]
-: 
-Scopes[0]
-sub
-: 
-ƒ sub()
-substr
-: 
-ƒ substr()
-substring
-: 
-ƒ substring()
-sup
-: 
-ƒ sup()
-toLocaleLowerCase
-: 
-ƒ toLocaleLowerCase()
-toLocaleUpperCase
-: 
-ƒ toLocaleUpperCase()
-toLowerCase
-: 
-ƒ toLowerCase()
-toString
-: 
-ƒ toString()
-toUpperCase
-: 
-ƒ toUpperCase()
-toWellFormed
-: 
-ƒ toWellFormed()
-trim
-: 
-ƒ trim()
-trimEnd
-: 
-ƒ trimEnd()
-trimLeft
-: 
-ƒ trimStart()
-trimRight
-: 
-ƒ trimEnd()
-trimStart
-: 
-ƒ trimStart()
-valueOf
-: 
-ƒ valueOf()
-Symbol(Symbol.iterator)
-: 
-ƒ [Symbol.iterator]()
-[[Prototype]]
-: 
-Object
-[[PrimitiveValue]]
-: 
-""
-[[PrimitiveValue]]
-: 
-"badalsha"
-﻿
+// Scopes[0]
+// [[Scopes]]
+// : 
+// Scopes[0]
+// No properties
+// replaceAll
+// : 
+// ƒ replaceAll()
+// search
+// : 
+// ƒ search()
+// slice
+// : 
+// ƒ slice()
+// small
+// : 
+// ƒ small()
+// split
+// : 
+// ƒ split()
+// startsWith
+// : 
+// ƒ startsWith()
+// length
+// : 
+// 1
+// name
+// : 
+// "startsWith"
+// arguments
+// : 
+// (...)
+// caller
+// : 
+// (...)
+// [[Prototype]]
+// : 
+// ƒ ()
+// [[Scopes]]
+// : 
+// Scopes[0]
+// strike
+// : 
+// ƒ strike()
+// length
+// : 
+// 0
+// name
+// : 
+// "strike"
+// arguments
+// : 
+// (...)
+// caller
+// : 
+// (...)
+// [[Prototype]]
+// : 
+// ƒ ()
+// [[Scopes]]
+// : 
+// Scopes[0]
+// sub
+// : 
+// ƒ sub()
+// substr
+// : 
+// ƒ substr()
+// substring
+// : 
+// ƒ substring()
+// sup
+// : 
+// ƒ sup()
+// toLocaleLowerCase
+// : 
+// ƒ toLocaleLowerCase()
+// toLocaleUpperCase
+// : 
+// ƒ toLocaleUpperCase()
+// toLowerCase
+// : 
+// ƒ toLowerCase()
+// toString
+// : 
+// ƒ toString()
+// toUpperCase
+// : 
+// ƒ toUpperCase()
+// toWellFormed
+// : 
+// ƒ toWellFormed()
+// trim
+// : 
+// ƒ trim()
+// trimEnd
+// : 
+// ƒ trimEnd()
+// trimLeft
+// : 
+// ƒ trimStart()
+// trimRight
+// : 
+// ƒ trimEnd()
+// trimStart
+// : 
+// ƒ trimStart()
+// valueOf
+// : 
+// ƒ valueOf()
+// Symbol(Symbol.iterator)
+// : 
+// ƒ [Symbol.iterator]()
+// [[Prototype]]
+// : 
+// Object
+// [[PrimitiveValue]]
+// : 
+// ""
+// [[PrimitiveValue]]
+// : 
+// "badalsha"
+// ﻿
