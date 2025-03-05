@@ -38,3 +38,26 @@ const myfunction = function () {
 
 
 console.log(typeof bigNumber);
+
+
+
+// ************************
+// stack and heap memory
+
+
+let myYoutubeName = "chaii or code"
+let anothername = "team's india"
+
+console.log(myYoutubeName);
+console.log(anothername);
+
+let userone = {
+  email: "hardic01@gmail.com",
+  age: 35,
+}
+let usertwo = userone;   //equal userone and usertwo
+
+usertwo.email = "virat01@gmail.com"    //change the userone Email...
+
+console.log(userone.email);
+console.log(usertwo.email);
