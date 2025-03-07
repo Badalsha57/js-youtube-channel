@@ -25,7 +25,40 @@ const obj2 = {4: "D",5: "E"};
 
 const obj3 = {...obj1,...obj2}   // amother method are use basicall add the Object in javascript use to the three dot ex= ...
 
-console.log(obj3);
+// console.log(obj3);
 
 
 // entire() methed basically use in the find the element of presents in code given output  in array order
+
+
+
+// Following the DeStructure of Objects
+//Curly braces means DeStructure Of the code or name
+
+const course ={
+  name: "lucky",
+  courselanguage: "english",
+  courseInstructor: "badal"
+
+}
+const {courseInstructor: Instructor} = course;  // change the courseInstructor into the it's any name the your choice ex = Instructor
+console.log(Instructor);
+
+const {courselanguage} = course;
+console.log(courselanguage)
+
+const {name} = course
+console.log(name);
+
+// Following the API
+
+// {
+//  "name": "API"
+//  "Sharma": "study"
+// }
+
+[
+  {},   
+  {},     // curly braces this a API method;
+  {},
+]
