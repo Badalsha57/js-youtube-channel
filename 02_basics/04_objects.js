@@ -2,9 +2,9 @@
 const tinderUser = {}; //  two types f declare the object Exmple = line number 1 nd 2 re similar.
 
 tinderUser.name = "suraj";
-tinderUser.email = "some@gmail.com";
+tinderUser.Email = "some@gmail.com";
 tinderUser.isLoggedIn = false;
-tinderUser.address = "Bihar";
+tinderUser.Address = "Bihar";
 
 // console.log(tinderUser);
 
